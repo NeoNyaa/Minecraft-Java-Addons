@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 5,
+		"description": "Removes as stray pixel in the critical hit particle."
+	}
+}
